@@ -1,4 +1,4 @@
 # zry
 c++
-#sorce files in University
+competiotions codes included
 
